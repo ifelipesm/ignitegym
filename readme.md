@@ -6,8 +6,8 @@
   IgniteGym is a mobile app made for GYMs where you can check your daily workouts and exercises.
 </h3>
 
-<div>
-  <img src=https://github.com/ifelipesm/ignitegym/blob/master/src/assets/logingif.gif alt="demo" height="425">
+<div align="center">
+  <img src=https://github.com/ifelipesm/ignitegym/blob/master/src/assets/logingif.gif alt="demo" height="600">
 </div>
 
 <p align="center">
